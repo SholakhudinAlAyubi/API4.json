@@ -1,0 +1,35 @@
+{"success":true,"Royco":[
+  {
+
+  "RoycoID":"1",
+  "RoycoName":"Royco Bumbu",
+  "Harga":"Rp500",
+  "url":"https://www.royco.co.id/content/dam/unilever/knorr_world/indonesia/bahasa_indonesia/general_image/ayam-bumbu-rujak-1957338-png.png.ulenscale.460x460.png"
+  
+},
+{
+
+  "RoycoID":"2",
+  "RoycoName":"Sup Krim",
+  "Harga":"Rp500",
+  "url":"https://www.royco.co.id/content/dam/unilever/knorr_world/indonesia/bahasa_indonesia/general_image/sup-krim-ayam-1957336-png.png.ulenscale.460x460.png"
+  
+},
+{
+
+  "RoycoID":"3",
+  "RoycoName":"Royco Kaldu",
+  "Harga":"Rp500",
+  "url":"https://www.royco.co.id/content/dam/unilever/knorr_world/global/bahasa_indonesia/photography_and_pictures/royco-kaldu-ayam-100gr-new-32765019-png.png.ulenscale.460x460.png"
+  
+},
+{
+
+  "RoycoID":"4",
+  "RoycoName":"Kaldu Tanpa Penguat Rasa",
+  "Harga":"Rp500",
+  "url":"https://www.royco.co.id/content/dam/unilever/knorr_world/indonesia/bahasa_indonesia/pack_shot/kaldu-spesial-70228961-png.png.ulenscale.460x460.png"
+  
+}
+  ]}
+
